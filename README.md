@@ -1,2 +1,2 @@
-# FirstProject
+# Project Pertama
 Ini adalah Repository pertama Saya
